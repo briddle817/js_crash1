@@ -1,4 +1,4 @@
-# JS_CRASH_COURSE
+# JS Crash Course Tutorial
 
 Javascript crash course to understand foundation.
 
